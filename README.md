@@ -1,6 +1,7 @@
 # Arduino LED Matrix with music
 
 CS 21 Project uploaded for public use
+
 Music: Overworld Theme - Legend of Zelda
 
 To use the code, follow these instructions:
